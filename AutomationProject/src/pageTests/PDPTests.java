@@ -13,7 +13,7 @@ public class PDPTests
 	  
 			
 	@Test
-	   public void f()
+	   public void sendInquiry()
 	  {
 		System.setProperty("webdriver.chrome.driver", "D://chromedriver_win32//chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
