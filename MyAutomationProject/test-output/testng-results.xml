@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="113236" started-at="2017-11-06T13:02:37Z" finished-at="2017-11-06T13:04:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="113236" started-at="2017-11-06T13:02:37Z" finished-at="2017-11-06T13:04:30Z">
+      <class name="com.test.PDPTests">
+        <test-method status="PASS" signature="sendInquiry()[pri:0, instance:com.test.PDPTests@14bf9759]" name="sendInquiry" duration-ms="113211" started-at="2017-11-06T18:32:37Z" finished-at="2017-11-06T18:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendInquiry -->
+      </class> <!-- com.test.PDPTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
